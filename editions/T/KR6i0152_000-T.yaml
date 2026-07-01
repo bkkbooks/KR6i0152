@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6i0152/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 普達王經
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T14/T14n0522.xml
+    old_id: T14n0522
+hash: sha256:b4a8578b073be66fc08e0293ec12b37dfd769b68276be779ab829297434deb8d
