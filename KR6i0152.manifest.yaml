@@ -34,9 +34,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6i0152_000.yaml, hash: 'sha256:b4a8578b073be66fc08e0293ec12b37dfd769b68276be779ab829297434deb8d'}
-  - {seq: 1, filename: KR6i0152_001.yaml, hash: 'sha256:0cb23c23a1c0f0628d496accc03b12073c17fe913bbd3537909c1b6111f73a63'}
+  - {seq: 1, filename: KR6i0152_001.yaml, hash: 'sha256:fe5d615c77f0f0905829b8c26bf992dc62f03c5a44f7b0a9457c8e0e917a7f33'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6i0152_001.markers.yaml, hash: 'sha256:e09e9f068114be325247b953aa15127992602135c0e9715d1da4a12a6e0cd9d9'}
+  - {seq: 0, role: markers, filename: assets/KR6i0152_000.markers.yaml, hash: 'sha256:4c96330ec5f6a9df718293107d29981a77e55b76b73accf27ef7c94b698f8aeb'}
+  - {seq: 1, role: markers, filename: assets/KR6i0152_001.markers.yaml, hash: 'sha256:06942c27890fff22e83a2bf11a3d63aea450bdc799d30c06ae8f1a82e423d693'}
 table_of_contents:
 - ref:
     seq: 1
@@ -48,7 +49,4 @@ table_of_contents:
   label: 普達王經
   type: juan
   level: 1
-hash: sha256:2d75eb4e5010936f7daae2cbde57abf5394fb0d17c17054ca49f5a086bfcfc59
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:6ab992e3f6dc2d12e0f31f2aac844d0c33272c7204ef580eafa04b33ccc2cb2e
